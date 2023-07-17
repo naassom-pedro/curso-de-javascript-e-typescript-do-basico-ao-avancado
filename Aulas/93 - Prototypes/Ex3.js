@@ -19,3 +19,5 @@ function Camisa(nome, preco, cor) {
 }
 
 const camiseta = new Camisa('regata', 19.99);
+
+console.log(camiseta);
